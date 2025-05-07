@@ -8,12 +8,15 @@ With Learning I also make projects and Push here into my Github.
 # MY Skills :
  C++, Object Oriented Programming, Dart, Flutter, State Management, Android Studio, HTML, CSS, Canva, 
 <br>
- - 👯 I’m looking to collaborate on Flutter and C++ Projects
+ # - 👯 I’m looking to collaborate on Flutter and C++ Projects
 <br>
 # Looking forward to Connect with You All 
 ---- LinkedIn : www.linkedin.com/in/hayat-nabi
 
 # - 📫 How to reach me: ...
   - Email    : hayatlucky064@gmail.com
-
-# - 😄 Pronouns: Terminal.z, Hidayat bhai, Shukria, 
+<br>
+# - 😄 Pronouns: <br>
+- Terminal.z,<br>
+- Hidayat bhai,<br>
+- Shukria, 
