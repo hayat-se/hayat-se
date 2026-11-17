@@ -53,12 +53,12 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hayat-se&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=1f6feb&cache_seconds=21600" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=hayat-se&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=24292f&ring_color=0969da&cache_seconds=21600" alt="GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hayat-se/hayat-se/output/stats-dark.svg" />
+    <img height="170" src="https://raw.githubusercontent.com/hayat-se/hayat-se/output/stats-light.svg" alt="GitHub stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hayat-se&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=21600" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayat-se&layout=compact&langs_count=6&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=24292f&cache_seconds=21600" alt="Top languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hayat-se/hayat-se/output/top-langs-dark.svg" />
+    <img height="170" src="https://raw.githubusercontent.com/hayat-se/hayat-se/output/top-langs-light.svg" alt="Top languages" />
   </picture>
 </p>
 
