@@ -75,8 +75,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hayat-se&bg_color=0d1117&color=58a6ff&line=1f6feb&point=a5d6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Last%2031%20days" />
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hayat-se&bg_color=ffffff&color=0969da&line=0969da&point=0a3069&area=true&area_color=54aeff&hide_border=true&custom_title=Last%2031%20days" alt="Contribution activity graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Hayat-SE&bg_color=0d1117&color=58a6ff&line=1f6feb&point=a5d6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Last%2031%20days" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hayat-SE&bg_color=ffffff&color=0969da&line=0969da&point=0a3069&area=true&area_color=54aeff&hide_border=true&custom_title=Last%2031%20days" alt="Contribution activity graph" />
   </picture>
 </p>
 
