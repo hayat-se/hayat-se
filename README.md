@@ -64,8 +64,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=hayat-se&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakNum=FFFFFF&currStreakLabel=58A6FF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D&date_format=M%20j%5B%2C%20Y%5D" />
-    <img src="https://streak-stats.demolab.com?user=hayat-se&hide_border=true&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakNum=0B1220&currStreakLabel=0969DA&sideNums=0B1220&sideLabels=57606A&dates=8C959F&stroke=D0D7DE&date_format=M%20j%5B%2C%20Y%5D" alt="Contribution streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Hayat-SE&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakNum=FFFFFF&currStreakLabel=58A6FF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D&date_format=M%20j%5B%2C%20Y%5D" />
+    <img src="https://streak-stats.demolab.com?user=Hayat-SE&hide_border=true&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakNum=0B1220&currStreakLabel=0969DA&sideNums=0B1220&sideLabels=57606A&dates=8C959F&stroke=D0D7DE&date_format=M%20j%5B%2C%20Y%5D" alt="Contribution streak" />
   </picture>
 </p>
 
