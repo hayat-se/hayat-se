@@ -1,53 +1,94 @@
 <p align="center">
-  <img src="https://vinncorp.com/wp-content/uploads/2023/01/image-13.png" alt="Banner" width="100%" />
+  <img src="./assets/hero.svg" alt="Hey there — I am Hayat Nabi, Full Stack Developer" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Hayat Nabi</h1>
-
-<table>
-<tr>
-<td>
-
-I’m a passionate developer with an **entrepreneurial mindset**, aiming to build innovative tech products and my own **startup** in the future.
-
-### 🚀 Currently, I’m focused on:
-
-💻 **Flutter Development** — Learning **Provider** for state management and implementing **clean architecture** principles to build scalable apps.  
-
-⚡ **Object-Oriented Programming (OOP)** — Strong command of OOP concepts in both **C++** and **Dart**, helping me write clean, efficient, and reusable code.  
-
-📚 **Data Structures & Algorithms (DSA)** — Actively solving problems on **LeetCode** to strengthen my problem-solving and coding skills.  
-
-
-### 🔧 **Tech Stack:**
-
-- Flutter & Dart  
-- C++ (Advanced OOP, File Handling, CLI Projects)  
-- DSA & Problem Solving  
-
-🚀 I love building, learning, and exploring new technologies. Feel free to explore my repositories or connect with me — I’m always open to collaborating and sharing knowledge.  
-
-</td>
-<td>
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcml6dWM2MGlhdDI4ZW1zcnpmNHRsYnVzaHlncjdzZzBjb3U0ZTZudCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp" alt="Coding Animation" width="250"/>
-
-</td>
-</tr>
-</table>
-
-
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/hayat-nabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hayat-nabi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hayat-se" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hayat-se" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/hayat-se">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=900&color=1F6FEB&center=true&vCenter=true&width=720&lines=Full+Stack+Developer+%7C+System+Design+Engineer;Co-Founder+%26+CTO+%40+BISOL+Labs;Associate+Software+Engineer+%40+Growmerce;Technical+Team+Lead+%40+MLSA+BSEAS+Islamabad" alt="Typing intro" />
+  </a>
 </p>
 
-<h2 align="left">Languages and Tools:</h2>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/hayat-nabi"><img src="https://img.shields.io/badge/LinkedIn-0b1220?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/hayat-se"><img src="https://img.shields.io/badge/LeetCode-0b1220?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
+  <img src="https://img.shields.io/badge/Islamabad,_PK-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Islamabad, Pakistan" />
+  <img src="https://komarev.com/ghpvc/?username=hayat-se&style=for-the-badge&color=1f6feb&label=Profile+views" alt="Profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hayat-se&show_icons=true&locale=en&layout=compact" alt="hayat-se" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hayat-se&show_icons=true&locale=en" alt="hayat-se" /></p>
+<p align="center">
+  <img src="./assets/services.svg" alt="I can help you with" width="100%" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hayat-se&" alt="hayat-se" /></p>
+<br/>
+
+<h2 align="center">EXPERIENCE &amp; ROLES</h2>
+
+<div align="center">
+
+| Period | Role | Where |
+|:--|:--|:--|
+| **Aug 2026 — Now** | **Associate Software Engineer** · Full‑time, hybrid | [Growmerce](https://www.linkedin.com/company/growmerce) |
+| **May 2026 — Now** | **Co‑Founder &amp; CTO** · Flutter, web &amp; backend/API services | BISOL Labs Pvt. Ltd. |
+| **Sep 2026 — Now** | **Technical Team Lead** | MLSA Chapter — BSEAS Islamabad |
+
+</div>
+
+> I own the technical side end to end — planning, development, deployment and ongoing maintenance — and I like turning messy manual operations into clean, automated systems.
+
+<br/>
+
+<h2 align="center">TECH STACK</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,js,ts,nodejs,react,firebase&perline=8" alt="Languages and frameworks" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postman,git,github,androidstudio,vscode,figma&perline=8" alt="Tools" />
+</p>
+
+<br/>
+
+<h2 align="center">GITHUB IN NUMBERS</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hayat-se&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=1f6feb&cache_seconds=21600" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=hayat-se&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=0969da&icon_color=0969da&text_color=24292f&ring_color=0969da&cache_seconds=21600" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hayat-se&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=21600" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayat-se&layout=compact&langs_count=6&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=24292f&cache_seconds=21600" alt="Top languages" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=hayat-se&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakNum=FFFFFF&currStreakLabel=58A6FF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D&date_format=M%20j%5B%2C%20Y%5D" />
+    <img src="https://streak-stats.demolab.com?user=hayat-se&hide_border=true&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakNum=0B1220&currStreakLabel=0969DA&sideNums=0B1220&sideLabels=57606A&dates=8C959F&stroke=D0D7DE&date_format=M%20j%5B%2C%20Y%5D" alt="Contribution streak" />
+  </picture>
+</p>
+
+<br/>
+
+<h2 align="center">CONTRIBUTION HISTORY</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hayat-se&bg_color=0d1117&color=58a6ff&line=1f6feb&point=a5d6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Last%2031%20days" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hayat-se&bg_color=ffffff&color=0969da&line=0969da&point=0a3069&area=true&area_color=54aeff&hide_border=true&custom_title=Last%2031%20days" alt="Contribution activity graph" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hayat-se/hayat-se/output/snake-dark.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/hayat-se/hayat-se/output/snake-light.svg" alt="Contribution snake in blue" />
+  </picture>
+</p>
+
+<br/>
+
+<p align="center">
+  <sub>Always open to building something useful together — <a href="https://linkedin.com/in/hayat-nabi"><b>say hello on LinkedIn</b></a>.</sub>
+</p>
